@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481457040047",
+    "project_id": "qreader-a060d",
+    "storage_bucket": "qreader-a060d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481457040047:android:1feae03314d47a662bc25a",
+        "android_client_info": {
+          "package_name": "com.ayubu.qreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481457040047-p0d6dffjd4estp4ilr3a20qgfme7v7pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeJ4bNI48yu8Bcz3f6t6LHDUgjwzcSKaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481457040047-p0d6dffjd4estp4ilr3a20qgfme7v7pl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
