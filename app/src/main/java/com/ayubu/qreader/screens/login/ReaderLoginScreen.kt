@@ -84,7 +84,7 @@ fun ReaderLoginScreen(
                 }
             }
       }
-        Spacer(modifier = Modifier.height(25.dp)) //15.dp
+        Spacer(modifier = Modifier.height(15.dp)) //15.dp
         Row(
             modifier=Modifier.padding(15.dp),
             horizontalArrangement = Arrangement.Center,

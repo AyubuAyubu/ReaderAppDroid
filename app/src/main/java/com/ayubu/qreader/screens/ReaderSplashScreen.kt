@@ -70,8 +70,8 @@ fun ReaderSplashScreen(navController: NavController){
              verticalArrangement = Arrangement.Center
           ) {
             ReaderLogo()
-          Spacer(modifier = Modifier.height(15.dp))
-          Text(
+           Spacer(modifier = Modifier.height(15.dp))
+           Text(
               text = "\"Developer are Reader\"",
               style = MaterialTheme.typography.bodyMedium,
               color = Color.LightGray)

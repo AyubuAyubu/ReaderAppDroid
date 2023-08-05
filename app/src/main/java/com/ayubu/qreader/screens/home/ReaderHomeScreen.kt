@@ -65,7 +65,7 @@ fun Home(navController: NavController=NavController(LocalContext.current)){
        },
        floatingActionButton = {
            FABContent{
-
+                navController.navigate(ReaderScreens.SearchScreen.name)
            }
        }
    ){
@@ -84,8 +84,6 @@ fun HomeContent(navController: NavController){
        MBook(id="fgh",title = "Android254",authors = "Harun",notes = null),
        MBook(id="fgi",title = "Droid Pwani",authors = "James",notes = null),
        MBook(id="fgj",title = "OnlyDevs",authors = "Jacob",notes = null)
-
-
    )
 
     // ayubu@gmail.com
